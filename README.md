@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sharvari Birajdar <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50"></h1>
+<h1 align="center">Hi, I'm Sharvari Birajdar <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50"></h1>
 <h3 align="center">Adapt.Evolve.Grow👩‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvariiii&label=Profile%20views&color=0e75b6&style=flat" alt="sharvariiii" /> </p>
