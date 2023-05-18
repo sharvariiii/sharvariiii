@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharvariiii&show_icons=true&locale=en&layout=compact" alt="sharvariiii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharvariiii&show_icons=true&locale=en" alt="sharvariiii" /></p>
+<p>&nbsp;</p>
 
